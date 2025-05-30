@@ -1,16 +1,7 @@
-This is for the Course I went or I am taking now.
-
-
-
-A
-A
-A
-A
-A
-B
-
+This Repository is for the Course I went or I am taking now.
 Let me just a little something about Git and Github
-DSA SOFTWARE DEVELOPMENT
+
+DSA SOFTWARE DEVELOPMENT
 To-Do Date: May 19 at 11:59pm
 🚀 Pre-requisites for Using Git & GitHub
 
